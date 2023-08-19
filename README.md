@@ -2,7 +2,7 @@
 
 This project are in attempt to integrate USDX version from WB2CBA with the following features:
 
-01 - 6 bands LPF selection.
+01 - Automatic 6 bands LPF and RF PA LPF selection.
 
 02 - RF power amplifier (RFPA) controlling process, since it is crucial for the proper transition sequence.
 
