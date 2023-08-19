@@ -12,3 +12,4 @@ This project are in attempt to integrate USDX version from WB2CBA with the follo
 
 Below are the first prototype image:
 
+![WhatsApp Image 2023-08-20 at 12 53 13 AM](https://github.com/bahari/USDX-CNTRL-MCU/assets/3076739/5cad0087-fde6-4f5a-9aa8-bb502913f045)
