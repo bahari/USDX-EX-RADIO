@@ -1,4 +1,4 @@
-# USDX-CNTRL-MCU
+# USDX-EX-SDR RADIO
 
 This project are in attempt to integrate USDX version from WB2CBA with the following features:
 
