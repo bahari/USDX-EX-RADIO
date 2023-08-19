@@ -1,6 +1,6 @@
 # USDX-EX-SDR RADIO
 
-This project are in attempt to integrate USDX version from WB2CBA with the following features:
+This project are in attempt to integrate USDX HF transceiver version from WB2CBA with the following features:
 
 01 - Automatic 6 bands LPF and RF PA LPF selection.
 
@@ -8,7 +8,7 @@ This project are in attempt to integrate USDX version from WB2CBA with the follo
 
 03 - SWR measurements, with a simplified LED indicator - 1->1.5 (BEST), 1.5->1.9 (BETTER), 1.9->3 (GOOD), >3 (POOR).
 
-04 - Spectrum display experimentation.
+04 - RF spectrum display experimentation.
 
 Below are the first prototype image:
 
