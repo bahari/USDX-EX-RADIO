@@ -10,7 +10,7 @@ This project are in attempt to integrate USDX HF transceiver version from WB2CBA
 
 04 - 30W SSB RF linear power amplifier. 
 
-05 - RF spectrum display experimentation.
+05 - RF spectrum display experimentation. For future developments, I will use Raspberry PI PICO with Micro Python scripting language. 
 
 Below are the first prototype image:
 
@@ -98,6 +98,9 @@ The control MCU was constructed using Arduino NANO as a main controller which wi
 03 - SWR measurements, with a simplified LED indicator - 1->1.5 (BEST), 1.5->1.9 (BETTER), 1.9->3 (GOOD), >3 (POOR).
 
 Feature no. 01 and 02 already tested. For no. 03 need to purchase Stockton/SWR bridge module.
+
+With the implementation of the external MCU, I can expand the radio functionalities according to my needs since the current uSDX code already consumes 
+a lot of program memory.
 
 # Brief Information - Relay
 
