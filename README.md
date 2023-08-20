@@ -18,10 +18,12 @@ Below are the first prototype image:
 
 # Brief Information - SDR Radio
 
-The uSDX-EX SDR radio (EX means EXTRA/EXPERIMENTATION) are adopted from the well known projects known as micro SDX (uSDX) - Micro Software Defined Transceiver, 
+The uSDX-EX SDR radio (EX means EXTRA/EXPERIMENTATION) was adopted from the well known projects known as micro SDX (uSDX) - Micro Software Defined Transceiver, 
 which you can get the information via the following link:
 
 https://github.com/threeme3/usdx
+
+The base radio firmware was taken from expand/additions version made by Rob Colclough GW8RDI, hence you can see the copyright term written in the code itself.
 
 The main board for SDR radio was a self assembled board develop by WB2CBA and the kit can be purchased online. The further information
 regarding this developments you can get via the following link:
