@@ -1,16 +1,16 @@
-# USDX-EX-SDR RADIO
+# uSDX-EX-SDR RADIO
 
 This project are in attempt to integrate USDX HF transceiver version from WB2CBA with the following features:
 
 01 - Automatic 6 bands LPF and RF PA LPF selection.
 
-02 - RF power amplifier (RFPA) controlling process, since it is crucial for the proper transition sequence.
+02 - RF power amplifier (RFPA) controlling process, since it is crucial for the proper RF transition sequence.
 
 03 - SWR measurements, with a simplified LED indicator - 1->1.5 (BEST), 1.5->1.9 (BETTER), 1.9->3 (GOOD), >3 (POOR).
 
 04 - 30W SSB RF linear power amplifier. 
 
-04 - RF spectrum display experimentation.
+05 - RF spectrum display experimentation.
 
 Below are the first prototype image:
 
@@ -18,8 +18,8 @@ Below are the first prototype image:
 
 # Brief Information - SDR Radio
 
-The USDX-EX SDR radio are adopted from the well known projects known as micro SDX (uSDX) - Micro Software Defined Transceiver, which 
-you can get the information via the following link:
+The uSDX-EX SDR radio (EX means EXTRA/EXPERIMENTATION) are adopted from the well known projects known as micro SDX (uSDX) - Micro Software Defined Transceiver, 
+which you can get the information via the following link:
 
 https://github.com/threeme3/usdx
 
@@ -27,3 +27,9 @@ The main board for SDR radio was a self assembled board develop by WB2CBA and th
 regarding this developments you can get via the following link:
 
 https://antrak.org.tr/blog/usdx-an-arduino-based-sdr-all-mode-hf-transceiver-pcb-iteration-v1-02/
+
+The modification was been done as following:
+
+01 - Maintaining using Si5351 signal genarator module as been suggested by WB2CBA for signal debugging and verification process.
+
+02 - Replacing 
