@@ -33,11 +33,17 @@ In the spirit of maintaining the open source concepts, all can copy, modified an
 There is some additions of the code in order to integrate it with above stated features. You can search it by using on of the following keyword:
 
 //////////////////////////////////////////////////////////////////////////////////
+
 // Code Patch/Changes
-// Author : Bahari 
+
+// Author : Bahari
+
 // Date   : 18/08/2023
+
 // REMARKS: My firmware version number
+
 #define VERSION   "1.02B01"  
+
 //////////////////////////////////////////////////////////////////////////////////
 
 The main board for SDR radio was a self assembled board develop by WB2CBA and the kit can be purchased online. The further information
