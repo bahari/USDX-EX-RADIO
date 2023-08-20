@@ -4,7 +4,7 @@ This project are in attempt to integrate USDX HF transceiver version from WB2CBA
 
 01 - Automatic 6 bands pre and final LPF and RF PA LPF selection.
 
-02 - RF power amplifier (RFPA) controlling process, since it is crucial for the proper RF transition sequence.
+02 - RF power amplifier (RF PA) controlling process, since it is crucial for the proper RF transition sequence.
 
 03 - SWR measurements, with a simplified LED indicator - 1->1.5 (BEST), 1.5->1.9 (BETTER), 1.9->3 (GOOD), >3 (POOR).
 
@@ -28,7 +28,7 @@ But STILL the concept of copyright are still open source as stated below:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-In the spirit of maintaining the open source concepts, all can copy, modified and sell the code but are still subjected to above term and conditions. NO ONE can disclose the code.  
+In the spirit of maintaining the open source concepts, all can copy, modified and sell the code but are still subjected to the above term and conditions. NO ONE can disclose the code.  
 
 There is some additions of the code in order to integrate it with above stated features. You can search it by using one of the following keyword:
 
@@ -55,14 +55,14 @@ https://antrak.org.tr/blog/usdx-an-arduino-based-sdr-all-mode-hf-transceiver-pcb
 
 The modification was been done as following:
 
-01 - Maintaining using Si5351 signal genarator module as been suggested by WB2CBA for signal debugging and verification process.
+01 - Maintaining using Si5351 signal generator module as been suggested by WB2CBA for signal debugging and verification process.
 
 02 - Replacing FST3253 and LM4562 for Tayloe Quadrature Sampling detector with 74HC4053 and NE5532 which can be purchased from local stored as suggested
 from the following link:
 
 https://hf5l.pl/en/transceiver-usdx-with-arduino-nano/
 
-03 - Using existing PTX - PB3 (External PTT trigger) and PD5 I/O port for I2C communication with the control MCU. So all the triggering process with
+03 - Using existing PTX - PB3 (External PTT trigger) and PD5 I/O port for I2C communication with the control MCU. All the triggering process will
 be implemented via I2C communication and process via external control MCU (Arduino NANO board).
 
 # Brief Information - Low Pass Filter (LPF)
@@ -84,7 +84,8 @@ http://tonnesoftware.com/elsie.html
 Further practical test for the LPF section are check and tested by using NanoVNA. My 7 elements LPF are not very sharp in suppressing the harmonics because of 
 the low quality capacitor and toroid used, but the characteristics as predicted from simulation software are still in accepted level. 
 
-Furthermore the final LPF stage will further suppressed the harmonics after the RF PA stage.
+Furthermore the final LPF stage will further suppressed the harmonics after the RF PA stage. RF harmonics was test and measured by using spectrum analyzer.
+I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
 # Brief Information - Control MCU
 
@@ -108,7 +109,22 @@ This design was used a normal relay that you can find from the local store. Ther
 
 # Brief Information - RF Power Amplifier
 
+The RF Power Amplifier used for this projects are a linear type of Push Pull RF amplifier which used a normal power MOSFET (IRF 530N) as an amplifier
+elements. The further information you can get from the following links:
 
+https://pa0fri.home.xs4all.nl/Lineairs/RF-AMP-2078/RF-AMP-2078.htm
+
+Bear in minds that, this amplifier are HARD to adjust and calibrate. I already blown a lot of this power amplifier MOSFET in order to get a better
+amplified signal waveform. You will learn a lot if you constructed and test this type of amplifier, but STILL its WORKS.
+
+Please watch the following link (4 Parts of video) for further details in construction and testing process:
+
+https://www.youtube.com/watch?v=d4Vtk0D06S8&t=7s
+
+You needs an oscilloscope in order to test and measured the signal purity of the amplification process. But this is an optional, you can used bulb if you
+dare as stated from the following link:
+
+https://www.rfcafe.com/references/qst/neon-bulbs-qst-july-1953.htm
 
 # Brief Information - Constructions
 
@@ -119,6 +135,12 @@ https://hackaday.com/2016/05/04/getting-ugly-dead-bugs-and-going-to-manhattan/
 
 # Last Words
 
-I will updated this page from time to time with the progress of the projects
+I will update this page from time to time along with progress of the projects. Please inform me if there is a misinformation regarding the above knowledge and
+facts - I'm still in a limited knowledge mode.
+
+AHmad Bahari - 9M2GRC
+
+73
+
 
 
