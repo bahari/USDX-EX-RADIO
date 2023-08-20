@@ -141,7 +141,7 @@ https://hackaday.com/2016/05/04/getting-ugly-dead-bugs-and-going-to-manhattan/
 I will update this page from time to time along with progress of the projects. Please inform me if there is a misinformation regarding the above knowledge and
 facts - I'm still in a limited knowledge mode.
 
-AHmad Bahari - 9M2GRC
+Ahmad Bahari - 9M2GRC
 
 73
 
