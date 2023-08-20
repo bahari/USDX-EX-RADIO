@@ -62,5 +62,24 @@ from the following link:
 
 https://hf5l.pl/en/transceiver-usdx-with-arduino-nano/
 
-03 - Using exixting PTX - PB3 (External PTT trigger) and PD5 I/O port for I2C communication with the control MCU. So all the triggering process with
+03 - Using existing PTX - PB3 (External PTT trigger) and PD5 I/O port for I2C communication with the control MCU. So all the triggering process with
 be implemented via I2C communication and process via external control MCU (Arduino NANO board).
+
+# Brief Information - Low Pass Filter (LPF)
+
+This protype are consists of two stages LPF:
+
+01 - Pre 6 bands (80,60,40,30,20,17 meters) 7 elements Butterworth LPF with self wind and self constructed design copy from a following link:
+
+http://qrp-labs.com/images/lpfkit/gqrplpf.pdf - For the design
+
+http://qrp-labs.com/images/lpfkit/assembly_A4.pdf - For detail constructions
+
+02 - Final 5 elements Butterworth LPF bare board brand XF-LPF-HF which cater low pass filtering for all HF bands. This board you can purchased online.
+
+The above filter was simulated using ELSIE application which you can download it from the following link:
+
+http://tonnesoftware.com/elsie.html
+
+Further practical test for the LPF section are check and tested by using NanoVNA. My 7 elements LPF are not very sharp in suppressing the harmonics because of 
+the low quality capacitor and toroid used, but the characteristics as predicted from simulation software are still in accepted level. 
