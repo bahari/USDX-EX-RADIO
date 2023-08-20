@@ -2,7 +2,7 @@
 
 This project are in attempt to integrate USDX HF transceiver version from WB2CBA with the following features:
 
-01 - Automatic 6 bands LPF and RF PA LPF selection.
+01 - Automatic 6 bands pre and final LPF and RF PA LPF selection.
 
 02 - RF power amplifier (RFPA) controlling process, since it is crucial for the proper RF transition sequence.
 
@@ -83,3 +83,42 @@ http://tonnesoftware.com/elsie.html
 
 Further practical test for the LPF section are check and tested by using NanoVNA. My 7 elements LPF are not very sharp in suppressing the harmonics because of 
 the low quality capacitor and toroid used, but the characteristics as predicted from simulation software are still in accepted level. 
+
+Furthermore the final LPF stage will further suppressed the harmonics after the RF PA stage.
+
+# Brief Information - Control MCU
+
+The control MCU was constructed using Arduino NANO as a main controller which will have the following features in minds:
+
+01 - Automatic 6 bands pre and final LPF and RF PA LPF selection.
+
+02 - RF power amplifier (RFPA) controlling process, since it is crucial for the proper RF transition sequence.
+
+03 - SWR measurements, with a simplified LED indicator - 1->1.5 (BEST), 1.5->1.9 (BETTER), 1.9->3 (GOOD), >3 (POOR).
+
+Feature no. 01 and 02 already tested. For no. 03 need to purchase Stockton/SWR bridge module.
+
+# Brief Information - Relay
+
+This design was used a normal relay that you can find from the local store. There is two type of relay used for this design, which is:
+
+01 - Double Pole Double Throw (DPDT) relay for pre LPF selection for each bands.
+
+02 - Single Pole Double Throw (SPDT) relay for RF PA control.
+
+# Brief Information - RF Power Amplifier
+
+
+
+# Brief Information - Constructions
+
+The construction of this radio was adopted from the 'Manhattan' style construction which gives an easy construction techniques and easy for
+hardware debugging purposes. Further information are from following links:
+
+https://hackaday.com/2016/05/04/getting-ugly-dead-bugs-and-going-to-manhattan/
+
+# Last Words
+
+I will updated this page from time to time with the progress of the projects
+
+
