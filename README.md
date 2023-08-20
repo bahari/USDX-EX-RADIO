@@ -2,7 +2,7 @@
 
 This project are in attempt to integrate USDX HF transceiver version from WB2CBA with the following features:
 
-01 - Automatic 6 bands pre and final LPF and RF PA LPF selection.
+01 - Automatic 6 bands pre and final LPF selection.
 
 02 - RF power amplifier (RF PA) controlling process, since it is crucial for the proper RF transition sequence.
 
