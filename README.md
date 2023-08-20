@@ -28,7 +28,17 @@ But the concept of copyright are still open source as stated below:
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-Maintaining the spirit of open source
+In the spirit of maintaining the open source concepts, all can copy, modified and sell the code but still are subjects to above term and conditions. NO ONE can disclose the code.  
+
+There is some additions of the code in order to integrate it with above stated features. You can search it by using on of the following keyword:
+
+//////////////////////////////////////////////////////////////////////////////////
+// Code Patch/Changes
+// Author : Bahari 
+// Date   : 18/08/2023
+// REMARKS: My firmware version number
+#define VERSION   "1.02B01"  
+//////////////////////////////////////////////////////////////////////////////////
 
 The main board for SDR radio was a self assembled board develop by WB2CBA and the kit can be purchased online. The further information
 regarding this developments you can get via the following link:
