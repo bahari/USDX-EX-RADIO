@@ -57,7 +57,7 @@ The modification was been done as following:
 
 01 - Maintaining using Si5351 signal generator module as been suggested by WB2CBA for signal debugging and verification process.
 
-02 - Replacing FST3253 and LM4562 for Tayloe Quadrature Sampling detector with 74HC4053 and NE5532 which can be purchased from local stored as suggested
+02 - Replacing FST3253 and LM4562 for Tayloe Quadrature Sampling detector with 74HC4053 and NE5532 which can be purchased from local store as suggested
 from the following link:
 
 https://hf5l.pl/en/transceiver-usdx-with-arduino-nano/
@@ -128,6 +128,8 @@ You needs an oscilloscope in order to test and measured the signal purity of the
 dare as stated from the following link:
 
 https://www.rfcafe.com/references/qst/neon-bulbs-qst-july-1953.htm
+
+You can buy this kits online.
 
 # Brief Information - Constructions
 
