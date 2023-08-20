@@ -16,11 +16,14 @@ Below are the first prototype image:
 
 ![WhatsApp Image 2023-08-20 at 12 53 13 AM](https://github.com/bahari/USDX-CNTRL-MCU/assets/3076739/5cad0087-fde6-4f5a-9aa8-bb502913f045)
 
-# Brief Information
+# Brief Information - SDR Radio
 
 The USDX-EX SDR radio are adopted from the well known projects known as micro SDX (uSDX) - Micro Software Defined Transceiver, which 
-you can get the information via following link:
+you can get the information via the following link:
 
 https://github.com/threeme3/usdx
 
+The main board for SDR radio was a self assembled board develop by WB2CBA and the kit can be purchased online. The further information
+regarding this developments you can get via the following link:
 
+https://antrak.org.tr/blog/usdx-an-arduino-based-sdr-all-mode-hf-transceiver-pcb-iteration-v1-02/
