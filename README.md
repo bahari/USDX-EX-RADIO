@@ -18,4 +18,9 @@ Below are the first prototype image:
 
 # Brief Information
 
+The USDX-EX SDR radio are adopted from the well known projects known as micro SDX (uSDX) - Micro Software Defined Transceiver, which 
+you can get the information via following link:
+
+https://github.com/threeme3/usdx
+
 
