@@ -69,7 +69,7 @@ be implemented via I2C communication and process via external control MCU (Ardui
 
 This protype are consists of two stages LPF:
 
-01 - Pre 6 bands (80,60,40,30,20,17 meters) 7 elements Butterworth LPF with self wind and self constructed design copy from a following link:
+01 - Pre 6 bands (80,60,40,30,20,17 meters) 7 elements Butterworth LPF with self wind and self constructed design which is copy from a following link:
 
 http://qrp-labs.com/images/lpfkit/gqrplpf.pdf - For the design
 
@@ -81,7 +81,7 @@ The above filter was simulated using ELSIE application which you can download it
 
 http://tonnesoftware.com/elsie.html
 
-Further practical test for the LPF section are check and tested by using NanoVNA. My 7 elements LPF are not very sharp in suppressing the harmonics because of 
+Further practical test for the LPF section was checked and tested by using NanoVNA. My 7 elements LPF are not very sharp in suppressing the harmonics because of 
 the low quality capacitor and toroid used, but the characteristics as predicted from simulation software are still in accepted level. 
 
 Furthermore the final LPF stage will further suppressed the harmonics after the RF PA stage. RF harmonics was test and measured by using spectrum analyzer.
