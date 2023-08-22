@@ -115,6 +115,12 @@ Frequency used: 3.8MHz - Power (dBm): 31.8dBm - Power (W): 1.5W
 
 Attenuator: 30dBm
 
+## Emission Standards
+
+Emission standards are according to the following link:
+
+https://www.law.cornell.edu/cfr/text/47/97.307
+
 # Brief Information - Control MCU
 
 The control MCU was constructed using Arduino NANO as a main controller which will have the following features in minds:
