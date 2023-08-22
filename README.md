@@ -103,9 +103,17 @@ Frequency used: 3.8MHz - Power (dBm): 13.3dBm - Power (mW): 20mW
 
 2'nd harmonic: 45.3dBm - 3'nd harmonic: 70.3dBm - 4'th harmonic: 73dBm
 
+Attenuator: 30dBm
+
 ## 80m Bands Harmonics Test Results - 31.8dBm
 
 ![harmonics-02](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/670a9b3f-16f5-47eb-bc8d-3fca6bee7aa2)
+
+Frequency used: 3.8MHz - Power (dBm): 31.8dBm - Power (W): 1.5W
+
+2'nd harmonic: 61.4dBm - 3'nd harmonic: 87.2dBm - 4'th harmonic: 105.2dBm
+
+Attenuator: 30dBm
 
 # Brief Information - Control MCU
 
