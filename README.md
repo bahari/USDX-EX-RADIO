@@ -87,6 +87,7 @@ the low quality capacitor and toroid used, but the characteristics as predicted 
 Furthermore the final LPF stage will further suppressed the harmonics after the RF PA stage. RF harmonics was test and measured by using spectrum analyzer.
 I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
+80m Bands LPF Test Results
 #
 
 # Brief Information - Control MCU
