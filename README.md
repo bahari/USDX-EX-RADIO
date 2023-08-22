@@ -69,7 +69,7 @@ be implemented via I2C communication and process via external control MCU (Ardui
 
 This protype are consists of two stages LPF:
 
-01 - Pre 6 bands (80,60,40,30,20,17 meters) 7 elements Butterworth LPF with self wind and self constructed design which is copy from a following link:
+01 - Pre 6 bands (80,60,40,30,20,17 meters) 7 elements Butterworth LPF with self wind and self constructed design which is copy from the following link:
 
 http://qrp-labs.com/images/lpfkit/gqrplpf.pdf - For the design
 
