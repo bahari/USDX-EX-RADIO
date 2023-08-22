@@ -95,10 +95,6 @@ I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
 ![80m-S11-23T-27T-23T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/1b8efe1d-cffc-4240-835f-1a6a3a2a21fc)
 
-## 80m Bands LPF Overall Test Results
-
-![80m-S11-23T-27T-23T-LPF-NanoVNA](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/e783c35c-ef0d-4d10-97e2-df7c2a9f3e7f)
-
 # Brief Information - Control MCU
 
 The control MCU was constructed using Arduino NANO as a main controller which will have the following features in minds:
