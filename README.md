@@ -99,6 +99,9 @@ I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
 ![harmonics-01](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/c84c4073-8eb4-4ff2-8be3-3480ed8d574e)
 
+Frequency used: 3.8MHz
+Power (dBm):
+
 ## 80m Bands Harmonics Test Results - 31.8dBm
 
 ![harmonics-02](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/670a9b3f-16f5-47eb-bc8d-3fca6bee7aa2)
