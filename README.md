@@ -91,6 +91,9 @@ I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
 ![80m-S21-23T-27T-23T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/4c1e00c7-423a-4cec-becf-341d0f94652f)
 
+## 80m Bands LPF S11 Test Results
+
+![80m-S11-23T-27T-23T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/1b8efe1d-cffc-4240-835f-1a6a3a2a21fc)
 
 # Brief Information - Control MCU
 
