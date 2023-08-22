@@ -75,7 +75,7 @@ http://qrp-labs.com/images/lpfkit/gqrplpf.pdf - For the design
 
 http://qrp-labs.com/images/lpfkit/assembly_A4.pdf - For detail constructions
 
-02 - Final 5 elements Butterworth LPF bare board brand XF-LPF-HF which cater low pass filtering for all HF bands. This board you can purchased online.
+02 - Final 5 elements Butterworth LPF bare board brand XF-LPF-HF which is cater for all HF bands low pass filtering. This board you can purchased online.
 
 The above filter was simulated using ELSIE application which you can download it from the following link:
 
