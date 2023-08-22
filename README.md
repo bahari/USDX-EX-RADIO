@@ -42,7 +42,7 @@ There is some additions of the code in order to integrate it with above stated f
 
 // REMARKS: My firmware version number
 
-#define VERSION   "1.02E01"  
+#define VERSION   "1.01EX"  
 
 //////////////////////////////////////////////////////////////////////////////////
 
