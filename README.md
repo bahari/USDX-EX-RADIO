@@ -131,6 +131,16 @@ Attenuator: 30dBm
 
 ![60m-S11-21T-24T-21T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/0482881f-9c14-4e62-af6e-c1db39c781ed)
 
+## 60m Bands Harmonics Test Results - 12.3dBm
+
+![harmonics-01](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/9a94302f-3dc7-4cb5-a0e6-fea0e5288cde)
+
+Frequency used: 5.3MHz - Power (dBm): 12.3dBm - Power (W): 16mW
+
+2'nd harmonic: 61.1dBm - 3'nd harmonic: 67.6dBm - 4'th harmonic: 61.2dBm
+
+Attenuator: 30dBm
+
 ## Emission Standards
 
 Emission standards are according to the following link:
