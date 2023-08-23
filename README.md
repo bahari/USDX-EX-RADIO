@@ -119,6 +119,10 @@ Frequency used: 3.8MHz - Power (dBm): 31.8dBm - Power (W): 1.5W
 
 Attenuator: 30dBm
 
+## 60m Bands LPF Simulation
+
+![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/170e6d70-2a9d-498d-9916-8b5d6f2012e7)
+
 ## Emission Standards
 
 Emission standards are according to the following link:
