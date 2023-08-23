@@ -1971,8 +1971,15 @@ IOSWITCHNANO ioswitch;
 static uint8_t prev_lpf_io = 0xff;
 inline void set_nano_io(uint8_t f){
   // PTT ON or OFF 
-  if ((f == 0x06) || (f == 0x07)){
-	ioswitch.write(f);
+  if ((f == 50) || (f == 60)){
+	uint8_t pttVal = 0;
+	// PTT ON
+	if (f == 50)
+		pttVal = 0x06;
+	// PTT OFF 
+	else if (f == 60)
+		pttVal = 0x07;
+	ioswitch.write(pttVal);
   }
   // 17 metres -> 18.068 - 18.168MHz
   // 20 metres -> 14.000 - 14.350MHz
@@ -4271,7 +4278,7 @@ void switch_rxtx(uint8_t tx_enable) {
 // Date   : 21/08/2023
 // REMARKS: Enable TX - RF PA
 #ifdef IO_SWITCHING_NANO
-	set_nano_io(0x06); // TX (enable TX)
+	set_nano_io(50); // TX (enable TX)
 #endif
 //////////////////////////////////////////////////////////////////////////////////
 
@@ -4346,7 +4353,7 @@ void switch_rxtx(uint8_t tx_enable) {
 // Date   : 18/08/2023
 // REMARKS: Enable TX - RF PA
 #ifdef IO_SWITCHING_NANO
-	set_nano_io(0x06); // TX (enable TX)
+	set_nano_io(50); // TX (enable TX)
 #endif
 //////////////////////////////////////////////////////////////////////////////////
 
@@ -4406,7 +4413,7 @@ void switch_rxtx(uint8_t tx_enable) {
 // Date   : 18/08/2023
 // REMARKS: Disable TX - RF PA 
 #ifdef IO_SWITCHING_NANO
-	set_nano_io(0x07); // TX (disable TX)
+	set_nano_io(60); // TX (disable TX)
 #endif
 //////////////////////////////////////////////////////////////////////////////////
 
@@ -5028,7 +5035,7 @@ void initPins() {
 // Date   : 18/08/2023
 // REMARKS: Disable TX - RF PA 
 #ifdef IO_SWITCHING_NANO
-	set_nano_io(0x07); // TX (disable TX)
+	set_nano_io(60); // TX (disable TX)
 #endif
 //////////////////////////////////////////////////////////////////////////////////
 
