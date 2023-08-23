@@ -115,10 +115,6 @@ Frequency used: 3.8MHz - Power (dBm): 31.8dBm - Power (W): 1.5W
 
 Attenuator: 30dBm
 
-## 80m Bands LPF S21 Test Results
-
-![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/08383410-0683-4334-ab57-e523eeb79c36)
-
 ## Emission Standards
 
 Emission standards are according to the following link:
