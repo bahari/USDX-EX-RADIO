@@ -141,6 +141,16 @@ Frequency used: 5.3MHz - Power (dBm): 12.3dBm - Power (W): 16mW
 
 Attenuator: 30dBm
 
+## 60m Bands Harmonics Test Results - 31dBm
+
+![harmonics-02](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/352d5b6c-4aca-4a8f-b949-5a36ea42616b)
+
+Frequency used: 5.3MHz - Power (dBm): 31dBm - Power (W): 1.25W
+
+2'nd harmonic: 78.3dBm - 3'nd harmonic: 73.9dBm - 4'th harmonic: 81.1dBm
+
+Attenuator: 30dBm
+
 ## Emission Standards
 
 Emission standards are according to the following link:
