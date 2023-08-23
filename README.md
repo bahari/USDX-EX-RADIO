@@ -123,6 +123,14 @@ Attenuator: 30dBm
 
 ![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/170e6d70-2a9d-498d-9916-8b5d6f2012e7)
 
+## 60m Bands LPF S21 Test Results
+
+![60m-S21-21T-24T-21T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/8ef39597-dac8-4a17-85bf-3d41ec1e5cfa)
+
+## 60m Bands LPF S11 Test Results
+
+![60m-S11-21T-24T-21T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/0482881f-9c14-4e62-af6e-c1db39c781ed)
+
 ## Emission Standards
 
 Emission standards are according to the following link:
