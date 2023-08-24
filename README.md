@@ -151,6 +151,18 @@ Frequency used: 5.3MHz - Power (dBm): 31dBm - Power (W): 1.25W
 
 Attenuator: 30dB
 
+## 40m Bands LPF Simulation
+
+![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/0b3bda19-bb8f-4b30-81e8-2f825dd901d0)
+
+## 40m Bands LPF S21 Test Results
+
+![40m-S21-18T-22T-18T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/e3904339-e956-4b59-b3f0-710703c5dce2)
+
+## 40m Bands LPF S11 Test Results
+
+![40m-S11-18T-22T-18T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/ccbfe3a4-15e1-4b8a-aa21-7cd32e7ea368)
+
 ## Emission Standards
 
 Emission standards are according to the following link:
