@@ -105,9 +105,9 @@ I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
 Frequency used: 3.8MHz - Power (dBm): 13.3dBm - Power (mW): 20mW
 
-2'nd harmonic: 45.3dBm - 3'nd harmonic: 70.3dBm - 4'th harmonic: 73dBm
+2'nd harmonic: 45.3dB - 3'nd harmonic: 70.3dB - 4'th harmonic: 73dB
 
-Attenuator: 30dBm
+Attenuator: 30dB
 
 ## 80m Bands Harmonics Test Results - 31.8dBm
 
@@ -115,9 +115,9 @@ Attenuator: 30dBm
 
 Frequency used: 3.8MHz - Power (dBm): 31.8dBm - Power (W): 1.5W
 
-2'nd harmonic: 61.4dBm - 3'nd harmonic: 87.2dBm - 4'th harmonic: 105.2dBm
+2'nd harmonic: 61.4dB - 3'nd harmonic: 87.2dB - 4'th harmonic: 105.2dB
 
-Attenuator: 30dBm
+Attenuator: 30dB
 
 ## 60m Bands LPF Simulation
 
@@ -137,9 +137,9 @@ Attenuator: 30dBm
 
 Frequency used: 5.3MHz - Power (dBm): 12.3dBm - Power (W): 16mW
 
-2'nd harmonic: 61.1dBm - 3'nd harmonic: 67.6dBm - 4'th harmonic: 61.2dBm
+2'nd harmonic: 61.1dB - 3'nd harmonic: 67.6dB - 4'th harmonic: 61.2dB
 
-Attenuator: 30dBm
+Attenuator: 30dB
 
 ## 60m Bands Harmonics Test Results - 31dBm
 
@@ -147,9 +147,9 @@ Attenuator: 30dBm
 
 Frequency used: 5.3MHz - Power (dBm): 31dBm - Power (W): 1.25W
 
-2'nd harmonic: 78.3dBm - 3'nd harmonic: 73.9dBm - 4'th harmonic: 81.1dBm
+2'nd harmonic: 78.3dB - 3'nd harmonic: 73.9dB - 4'th harmonic: 81.1dB
 
-Attenuator: 30dBm
+Attenuator: 30dB
 
 ## Emission Standards
 
