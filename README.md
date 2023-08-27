@@ -225,6 +225,30 @@ Attenuator: 30dB
 
 ![20m-S21-16T-17T-16T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/0637c35d-e361-493d-9ac3-6212d0f4e197)
 
+## 20m Bands LPF S11 Test Results
+
+![20m-S11-16T-17T-16T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/9e870a9e-7c5c-4084-9114-9c7b81b41a04)
+
+## 20m Bands Harmonics Test Results - 9dBm
+
+![harmonics-01](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/ffef3004-8dac-4425-930d-4accff08ee34)
+
+Frequency used: 14.1MHz - Power (dBm): 9dBm - Power (W): 8mW
+
+2'nd harmonic: -67.3dB - 3'nd harmonic: -46.3dB - 4'th harmonic: -68.4dB
+
+Attenuator: 30dB
+
+## 20m Bands Harmonics Test Results - 26dBm
+
+![harmonics-02](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/4d7ba173-0608-4c24-806f-bc56c0df4d14)
+
+Frequency used: 14.1MHz - Power (dBm): 26dBm - Power (W): 0.4W
+
+2'nd harmonic: -83.9dB - 3'nd harmonic: -76.8dB - 4'th harmonic: -87dB
+
+Attenuator: 30dB
+
 ## Emission Standards
 
 Emission standards are according to the following link:
