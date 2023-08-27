@@ -89,7 +89,7 @@ the low quality capacitor and toroid used, but the characteristics as predicted 
 Furthermore the final LPF stage will further suppressed the harmonics after the RF PA stage. RF harmonics was test and measured by using spectrum analyzer.
 I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
-Adjustments and fine tuning process for the LPF was done with a minimum efforts since I required only at approximately -10dBm RF input to RF PA.
+Adjustments and fine tuning process for the LPF was done with a minimum efforts since I only required -10dBm RF output in order to feed RF PA.
 
 ## 80m Bands LPF Simulation
 
@@ -264,6 +264,8 @@ Attenuator: 30dB
 ![17m-S11-13T-15T-13T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/61602b97-0279-4eef-a7d8-34e9b1149abf)
 
 ## 17m Bands Harmonics Test Results - 6dBm
+
+![harmonics-01](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/e1d96c84-6850-4bac-ba0a-59d19d79fa2a)
 
 Frequency used: 18.1MHz - Power (dBm): 6dBm - Power (W): 4mW
 
