@@ -1,5 +1,7 @@
 # uSDX-EX-SDR RADIO
 
+![Simple-HF-SDR](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/e6f314c2-deaf-4adc-bd41-a61063fc0bd1)
+
 This project are in attempt to integrate USDX HF transceiver version from WB2CBA with the following features:
 
 01 - Automatic 6 bands pre and final LPF selection.
