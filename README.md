@@ -1,4 +1,4 @@
-# uSDX-EX-SDR RADIO
+# uSDX-EX HF SDR RADIO
 
 ![Simple-HF-SDR](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/e6f314c2-deaf-4adc-bd41-a61063fc0bd1)
 
@@ -184,6 +184,46 @@ Frequency used: 7.13MHz - Power (dBm): 30.8dBm - Power (W): 1.25W
 2'nd harmonic: -68.2dB - 3'nd harmonic: -75.2dB - 4'th harmonic: -82dB
 
 Attenuator: 30dB
+
+## 30m Bands LPF Simulation
+
+![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/b0034fc4-214f-459e-96b7-6a4145868f1b)
+
+## 30m Bands LPF S21 Test Results
+
+![30m-S21-17T-20T-17T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/174ddcd1-6231-4cfc-8e2d-dde8508a202d)
+
+## 30m Bands LPF S11 Test Results
+
+![30m-S11-17T-20T-17T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/780f3a16-3b93-43c8-a2c5-f7996ec5a744)
+
+## 30m Bands Harmonics Test Results - 9.8dBm
+
+![Harmonics-01](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/04488528-1b1e-4648-8c51-0867346c8c09)
+
+Frequency used: 10.1MHz - Power (dBm): 9.8dBm - Power (W): 10mW
+
+2'nd harmonic: -54.6dB - 3'nd harmonic: -58.5dB - 4'th harmonic: -50.1dB
+
+Attenuator: 30dB
+
+## 30m Bands Harmonics Test Results - 29.3dBm
+
+![Harmonics-02](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/ac16931d-ca15-44ab-bad9-db17e7a291dc)
+
+Frequency used: 10.1MHz - Power (dBm): 29.3dBm - Power (W): 1W
+
+2'nd harmonic: -80.1dB - 3'nd harmonic: -83.8dB - 4'th harmonic: -80dB
+
+Attenuator: 30dB
+
+## 20m Bands LPF Simulation
+
+![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/48ca8ca1-7e5d-4ae2-97b4-69f1efe91b39)
+
+## 20m Bands LPF S21 Test Results
+
+![20m-S21-16T-17T-16T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/0637c35d-e361-493d-9ac3-6212d0f4e197)
 
 ## Emission Standards
 
