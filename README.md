@@ -89,6 +89,8 @@ the low quality capacitor and toroid used, but the characteristics as predicted 
 Furthermore the final LPF stage will further suppressed the harmonics after the RF PA stage. RF harmonics was test and measured by using spectrum analyzer.
 I used the TinySA as a main spectrum analyzer with a 100W 30dB attenuator.
 
+Adjustments and fine tuning process for the LPF was done with a minimum efforts since I required only at approximately -10dBm RF input to RF PA.
+
 ## 80m Bands LPF Simulation
 
 ![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/160d0ce6-1231-4608-abf0-caec6f869192)
@@ -246,6 +248,36 @@ Attenuator: 30dB
 Frequency used: 14.1MHz - Power (dBm): 26dBm - Power (W): 0.4W
 
 2'nd harmonic: -83.9dB - 3'nd harmonic: -76.8dB - 4'th harmonic: -87dB
+
+Attenuator: 30dB
+
+## 17m Bands LPF Simulation
+
+![elsie](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/1ef32b87-3822-4120-a082-ff1cf11815fd)
+
+## 17m Bands LPF S21 Test Results
+
+![17m-S21-13T-15T-13T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/d3708ff5-aced-4c65-9323-16b0730d0dc5)
+
+## 17m Bands LPF S11 Test Results
+
+![17m-S11-13T-15T-13T-LPF](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/61602b97-0279-4eef-a7d8-34e9b1149abf)
+
+## 17m Bands Harmonics Test Results - 6dBm
+
+Frequency used: 18.1MHz - Power (dBm): 6dBm - Power (W): 4mW
+
+2'nd harmonic: -40.9dB - 3'nd harmonic: -48.9dB - 4'th harmonic: -53.5dB
+
+Attenuator: 30dB
+
+## 17m Bands Harmonics Test Results - 23.5dBm
+
+![harmonics-02](https://github.com/bahari/USDX-EX-RADIO/assets/3076739/2cc1f32f-b0f1-469f-a91f-9b78866fe03f)
+
+Frequency used: 18.1MHz - Power (dBm): 6dBm - Power (W): 0.2W
+
+2'nd harmonic: -73.7dB - 3'nd harmonic: -80.7dB - 4'th harmonic: -81.7dB
 
 Attenuator: 30dB
 
