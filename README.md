@@ -109,7 +109,7 @@ Adjustments and fine tuning process for the LPF was done with a minimum efforts 
 
 Frequency used: 3.8MHz - Power (dBm): 13.3dBm - Power (mW): 20mW
 
-2'nd harmonic: -45.3dB - 3'nd harmonic: -70.3dB - 4'th harmonic: -73dB
+2'nd harmonic: -45.3dB - 3'rd harmonic: -70.3dB - 4'th harmonic: -73dB
 
 Attenuator: 30dB
 
@@ -119,7 +119,7 @@ Attenuator: 30dB
 
 Frequency used: 3.8MHz - Power (dBm): 31.8dBm - Power (W): 1.5W
 
-2'nd harmonic: -61.4dB - 3'nd harmonic: -87.2dB - 4'th harmonic: -105.2dB
+2'nd harmonic: -61.4dB - 3'rd harmonic: -87.2dB - 4'th harmonic: -105.2dB
 
 Attenuator: 30dB
 
@@ -141,7 +141,7 @@ Attenuator: 30dB
 
 Frequency used: 5.3MHz - Power (dBm): 12.3dBm - Power (W): 16mW
 
-2'nd harmonic: -61.1dB - 3'nd harmonic: -67.6dB - 4'th harmonic: -61.2dB
+2'nd harmonic: -61.1dB - 3'rd harmonic: -67.6dB - 4'th harmonic: -61.2dB
 
 Attenuator: 30dB
 
@@ -151,7 +151,7 @@ Attenuator: 30dB
 
 Frequency used: 5.3MHz - Power (dBm): 31dBm - Power (W): 1.25W
 
-2'nd harmonic: -78.3dB - 3'nd harmonic: -73.9dB - 4'th harmonic: -81.1dB
+2'nd harmonic: -78.3dB - 3'rd harmonic: -73.9dB - 4'th harmonic: -81.1dB
 
 Attenuator: 30dB
 
@@ -173,7 +173,7 @@ Attenuator: 30dB
 
 Frequency used: 7.13MHz - Power (dBm): 12.8dBm - Power (W): 20mW
 
-2'nd harmonic: -47.2dB - 3'nd harmonic: -68.4dB - 4'th harmonic: -56.2dB
+2'nd harmonic: -47.2dB - 3'rd harmonic: -68.4dB - 4'th harmonic: -56.2dB
 
 Attenuator: 30dB
 
@@ -183,7 +183,7 @@ Attenuator: 30dB
 
 Frequency used: 7.13MHz - Power (dBm): 30.8dBm - Power (W): 1.25W
 
-2'nd harmonic: -68.2dB - 3'nd harmonic: -75.2dB - 4'th harmonic: -82dB
+2'nd harmonic: -68.2dB - 3'rd harmonic: -75.2dB - 4'th harmonic: -82dB
 
 Attenuator: 30dB
 
@@ -205,7 +205,7 @@ Attenuator: 30dB
 
 Frequency used: 10.1MHz - Power (dBm): 9.8dBm - Power (W): 10mW
 
-2'nd harmonic: -54.6dB - 3'nd harmonic: -58.5dB - 4'th harmonic: -50.1dB
+2'nd harmonic: -54.6dB - 3'rd harmonic: -58.5dB - 4'th harmonic: -50.1dB
 
 Attenuator: 30dB
 
@@ -215,7 +215,7 @@ Attenuator: 30dB
 
 Frequency used: 10.1MHz - Power (dBm): 29.3dBm - Power (W): 1W
 
-2'nd harmonic: -80.1dB - 3'nd harmonic: -83.8dB - 4'th harmonic: -80dB
+2'nd harmonic: -80.1dB - 3'rd harmonic: -83.8dB - 4'th harmonic: -80dB
 
 Attenuator: 30dB
 
@@ -237,7 +237,7 @@ Attenuator: 30dB
 
 Frequency used: 14.1MHz - Power (dBm): 9dBm - Power (W): 8mW
 
-2'nd harmonic: -67.3dB - 3'nd harmonic: -46.3dB - 4'th harmonic: -68.4dB
+2'nd harmonic: -67.3dB - 3'rd harmonic: -46.3dB - 4'th harmonic: -68.4dB
 
 Attenuator: 30dB
 
@@ -247,7 +247,7 @@ Attenuator: 30dB
 
 Frequency used: 14.1MHz - Power (dBm): 26dBm - Power (W): 0.4W
 
-2'nd harmonic: -83.9dB - 3'nd harmonic: -76.8dB - 4'th harmonic: -87dB
+2'nd harmonic: -83.9dB - 3'rd harmonic: -76.8dB - 4'th harmonic: -87dB
 
 Attenuator: 30dB
 
@@ -269,7 +269,7 @@ Attenuator: 30dB
 
 Frequency used: 18.1MHz - Power (dBm): 6dBm - Power (W): 4mW
 
-2'nd harmonic: -40.9dB - 3'nd harmonic: -48.9dB - 4'th harmonic: -53.5dB
+2'nd harmonic: -40.9dB - 3'rd harmonic: -48.9dB - 4'th harmonic: -53.5dB
 
 Attenuator: 30dB
 
@@ -279,7 +279,7 @@ Attenuator: 30dB
 
 Frequency used: 18.1MHz - Power (dBm): 6dBm - Power (W): 0.2W
 
-2'nd harmonic: -73.7dB - 3'nd harmonic: -80.7dB - 4'th harmonic: -81.7dB
+2'nd harmonic: -73.7dB - 3'rd harmonic: -80.7dB - 4'th harmonic: -81.7dB
 
 Attenuator: 30dB
 
